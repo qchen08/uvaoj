@@ -20,7 +20,8 @@ public class Pro_100_3nplus1problem {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
+		Pro_100_3nplus1problem n = new Pro_100_3nplus1problem();
+		System.out.println("Test");
 	}
 
 }
